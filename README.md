@@ -4,7 +4,7 @@ A modded version of Geyser which allows players to connect to your server throug
 This project has been moved to CodeBerg.
 
 GeyserEdu: 
-https://codeberg"dot"org/SendableMetatype/EduGeyser
+https://codeberg.org/SendableMetatype/EduGeyser
 
 GeyserFloodgate:
-https://codeberg"dot"org/SendableMetatype/Edufloodgate 
+https://codeberg.org/SendableMetatype/Edufloodgate 
